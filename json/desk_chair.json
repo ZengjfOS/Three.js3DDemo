@@ -1,0 +1,78 @@
+[
+	{
+		"position_x" : 25,
+		"position_y" : 3,
+		"position_z" : -10,
+		"rotation_y"  : 0.5
+	},
+	{
+		"position_x" : 25,
+		"position_y" : 3,
+		"position_z" : 2,
+		"rotation_y" : 0.5
+	},
+	{
+		"position_x" : 25,
+		"position_y" : 3,
+		"position_z" : 30,
+		"rotation_y" : 0.5
+	},
+	{
+		"position_x" : 21,
+		"position_y" : 3,
+		"position_z" : -10,
+		"rotation_y" :  -0.5
+	},
+	{
+		"position_x" : 21,
+		"position_y" : 3,
+		"position_z" : 2,
+		"rotation_y" : -0.5
+	},
+	{
+		"position_x" : 21,
+		"position_y" : 3,
+		"position_z" : 30,
+		"rotation_y" : -0.5
+	},
+	
+	
+	
+	
+	{
+		"position_x" : -1,
+		"position_y" : 3,
+		"position_z" : -10,
+		"rotation_y" : -0.5
+	},
+	{
+		"position_x" : -1,
+		"position_y" : 3,
+		"position_z" : 2,
+		"rotation_y" : -0.5
+	},
+	{
+		"position_x" : -1,
+		"position_y" : 3,
+		"position_z" : 30,
+		"rotation_y" : -0.5
+	},
+	{
+		"position_x" : 3,
+		"position_y" : 3,
+		"position_z" : -10,
+		"rotation_y" :  0.5
+	},
+	{
+		"position_x" : 3,
+		"position_y" : 3,
+		"position_z" : 2,
+		"rotation_y" : 0.5
+	},
+	{
+		"position_x" : 3,
+		"position_y" : 3,
+		"position_z" : 30,
+		"rotation_y" : 0.5
+	}
+]

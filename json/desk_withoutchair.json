@@ -1,0 +1,20 @@
+[
+	{
+		"position_x" : -36,
+		"position_y" : 3,
+		"position_z" : 20,
+		"rotation_y"  : 0.5
+	},
+	{
+		"position_x" : -36,
+		"position_y" : 3,
+		"position_z" : 7,
+		"rotation_y"  : 0.5
+	},
+	{
+		"position_x" : -30,
+		"position_y" : 3,
+		"position_z" : 36,
+		"rotation_y"  : 1
+	}
+]

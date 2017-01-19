@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;}`
+#code {
+
+	width: 1px;
+	height: 1px;
+	background-color: #fff;
+	padding: 10px;
+	position: absolute;
+	display: none;
+	left: 45%;
+	z-index: 1002;
+}
+
